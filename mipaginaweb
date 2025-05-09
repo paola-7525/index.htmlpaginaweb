@@ -1,5 +1,2 @@
+<img src="images/tu-imagen.jpg" alt="Descripción de la imagen">
 
-
-git add .
-git commit -m "Agregando nuevas imágenes"
-git push origin main
