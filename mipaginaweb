@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Mi página con imágenes</title>
-</head>
-<body>
-    <h1>Bienvenido a mi página</h1>
-    <p>A continuación, una imagen:</p>
-    <img src="ruta/de/tu/imagen.jpg" alt="Descripción de la imagen" width="500" height="300">
-</body>
-</html>
 
+
+git add .
+git commit -m "Agregando nuevas imágenes"
+git push origin main
