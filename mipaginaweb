@@ -1,13 +1,13 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8" />
-    <title>Mi Galería de Imágenes</title>
+    <meta charset="UTF-8">
+    <title>Mi página con imágenes</title>
 </head>
 <body>
-    <h1>Mis Imágenes</h1>
-    <img src="ruta/de/tu/imagen1.jpg" alt="Descripción de la imagen 1" width="300" />
-    <img src="ruta/de/tu/imagen2.jpg" alt="Descripción de la imagen 2" width="300" />
+    <h1>Bienvenido a mi página</h1>
+    <p>A continuación, una imagen:</p>
+    <img src="ruta/de/tu/imagen.jpg" alt="Descripción de la imagen" width="500" height="300">
 </body>
 </html>
+
